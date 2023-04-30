@@ -1,0 +1,1 @@
+# arduino_mq2_gaz_sensoru_kullanimi
